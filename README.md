@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @111020012001
+- 😀My name is BHOOMIKA BANSAL 
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning python and java
 
